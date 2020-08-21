@@ -1,4 +1,4 @@
-# Green-Taxi
+# Analysis of NYC's Green-Taxi Data
 ##Introduction
 - For this project, we have used **NYC green taxi data**. This data is available in ***JSON*** [(***What is JSON?***)](https://www.json.org/) format.
 - Green taxi data is available for year 2009 and year 2014 to 2018. Which is taken from this [**Link**](https://data.cityofnewyork.us/browse?q=green+taxi).
